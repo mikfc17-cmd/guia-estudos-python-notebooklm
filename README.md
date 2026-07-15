@@ -78,3 +78,13 @@ Python é uma linguagem de programação de alto nível, conhecida por sua sinta
 ## Conclusão
 
 O NotebookLM mostrou-se uma excelente ferramenta de apoio aos estudos, permitindo organizar conteúdos, gerar resumos, criar materiais de revisão e facilitar o aprendizado da linguagem Python.
+
+
+## Experiência com o NotebookLM
+
+Durante o desenvolvimento deste projeto, utilizei o NotebookLM para:
+
+- gerar resumos sobre Python;
+- explicar conceitos como listas, tuplas e dicionários;
+- elaborar um plano de estudos de 15 dias;
+- responder dúvidas utilizando a documentação oficial do Python como fonte.
